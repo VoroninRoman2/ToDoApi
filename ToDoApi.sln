@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApi", "ToDoApi\ToDoApi.csproj", "{04EAFCFD-3EBD-4386-9A0F-08A6A606F5CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApi", "ToDoApi\ToDoApi.csproj", "{04EAFCFD-3EBD-4386-9A0F-08A6A606F5CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApiTests", "ToDoApiTests\ToDoApiTests.csproj", "{D922FF92-0566-4FA3-8CB1-5AAFFF488FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApiTests", "ToDoApiTests\ToDoApiTests.csproj", "{D922FF92-0566-4FA3-8CB1-5AAFFF488FCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
