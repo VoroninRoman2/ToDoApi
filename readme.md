@@ -1,4 +1,5 @@
-This API allows you to add, delete, update and get simple ToDo items from my sql database.
+This API allows you to add, delete, update and get simple ToDo items.
+Api use sql database.
 Note. For convenience, the ConnectionString is now stored in the appsettings.json file. Normally I would use an environment variable.
 - Was it easy to complete the task using AI?
     Not as i expected. There was some problems with chat using wrong versions of packages for examle.
